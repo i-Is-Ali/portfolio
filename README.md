@@ -29,7 +29,7 @@ Curated links to my live client work. No code, just links + one-liners.
   🔗 https://alphaadvertising.ae/  
 - **InShort** — News & opinion site with Pakistan, Sports, Lifestyle sections.  
   🔗 https://inshort.pk/
-  - **Volkactive** — Creative & digital agency site: “Bold Ideas, Bigger Impact.”  
+- **Volkactive** — Creative & digital agency site: “Bold Ideas, Bigger Impact.”  
   🔗 https://volkactive.com/  
 
 ## Technology & B2B
