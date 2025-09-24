@@ -1,53 +1,39 @@
-# My Web Projects — Links Only (with brief details)
-
-Curated links to my live client work. No code, just links + one-liners.
-
-
-
-
+# Web Portfolio — Live Client Projects by Ali Aslam
+*Last updated: September 24, 2025 (Asia/Karachi).*
 ---
 
 ## Furniture & Home
-- **ZHomes Furniture** — Pakistan furniture brand; online store with beds, sofas, recliners; “A Design Culture That Transforms Living.” (Shopify)  
-  🔗 https://www.zhomesfurniture.com/  
+- **[ZHomes Furniture](https://www.zhomesfurniture.com/)** — Pakistan-based furniture brand with beds, sofas, and recliners — “A Design Culture That Transforms Living.” *(Shopify)*
 
 ## Food & FMCG
-- **Temla Rice** — Export-quality rice brand; “Longest Grain… 5-Minute Soak” & “For Families Who Love Quality.”  
-  🔗 https://temlarice.com/  
+- **[Temla Rice](https://temlarice.com/)** — Export-quality Basmati; “Longest Grain” and “5-Minute Soak,” built for families that value quality.
+
+## Semiconductor
+- **[yieldWerx](https://yieldwerx.com/)** — Turn-key semiconductor yield management platform that transforms billions of data points into decisions with a single-source database, predictive AI analytics, cost-efficient automation, and intuitive, end-to-end reporting.
+
 ## Beauty & Cosmetics
-- **The Skinity** — Skincare store; “It’s Hydration Nation Baby!” and product lineup (Shopify).  
-  🔗 https://theskinity.com/ 
-- **UF Makeup** — Makeup & beauty services in Ontario; hair/makeup, facials, nails, home service.  
-  🔗 https://ufmakeup.com/ 
+- **[The Skinity](https://theskinity.com/)** — Skincare storefront and product lineup — “It’s Hydration Nation, Baby!” *(Shopify)*
+- **[UF Makeup](https://ufmakeup.com/)** — Ontario-based beauty studio: makeup, hair, facials, nails, and home services.
 
 ## Energy & Utilities
-- **Shams Power** — Pakistan PPA/BOOT solar provider; rooftop & industrial solar solutions.  
-  🔗 https://shams-power.com/  
+- **[Shams Power](https://shams-power.com/)** — PPA/BOOT solar solutions across rooftop and industrial deployments in Pakistan.
 
 ## Advertising & Media
-- **Alpha Advertising (UAE)** — Digital, influencers, social, events; Dubai-based.  
-  🔗 https://alphaadvertising.ae/  
-- **InShort** — News & opinion site with Pakistan, Sports, Lifestyle sections.  
-  🔗 https://inshort.pk/
-- **Volkactive** — Creative & digital agency site: “Bold Ideas, Bigger Impact.”  
-  🔗 https://volkactive.com/  
+- **[Alpha Advertising (UAE)](https://alphaadvertising.ae/)** — Dubai agency for digital, influencer, social, and events.
+- **[InShort](https://inshort.pk/)** — News & opinion with Pakistan, Sports, and Lifestyle sections.
+- **[Volkactive](https://volkactive.com/)** — Creative & digital agency — “Bold Ideas, Bigger Impact.”
 
-## Technology & B2B
-- **Golden Technologics** — Electronics & smart-gadgets distribution (Pakistan).  
-  🔗 https://goldentechnologics.com/  
-- **Siccotel Telecom** — Telecom group site (currently WordPress placeholder).  
-  🔗 https://siccoteltelecom.com/  
+## Business, Training & Community
+- **[ProGrowth 360](https://progrowth360.pk)** — All-in-one platform for business solutions, skills training, and community networking; delivering measurable results for brands, professionals, and changemakers across Pakistan.
 
-## E-commerce Stores
-- **FT Store PK** — Apple devices & accessories, plus Sony/JBL, etc.  
-  🔗 https://ftstorepk.com/  
-- **Sicco Store** — Authorized mobile & electronics store, powered by Siccotel.  
-  🔗 https://siccostore.pk/  
+## Telecom Industry
+- **[Villaon Pakistan](https://villaonpakistan.com/)** — Feature phone & smartphone brand site with V-series product pages.
+- **[Sicco Store](https://siccostore.pk/)** — Authorized mobiles & electronics store powered by Siccotel.
+- **[Golden Technologics](https://goldentechnologics.com/)** — Distribution for electronics and smart gadgets in Pakistan.
+- **[Siccotel Telecom](https://siccoteltelecom.com/)** — Telecom group presence *(WordPress placeholder)*.
 
-## Real Estate & Devices
-- **Villaon Pakistan** — Feature-phone/smartphone brand; product pages (V-series).  
-  🔗 https://villaonpakistan.com/ 
+---
+### Contact
+For more details, feel free to reach out at **ali.aslam.1224@gmail.com**
 
-## Prototypes / Temporary
-- **CUO (Temporary Link)** — Prototype site (temporary domain).  
-  🔗 https://cuo.ftg.temporary.site/website_c55be99c/
+---
